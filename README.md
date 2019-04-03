@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## My GitHub Pages.
+
+Welcome. This is me. These pages lead to code tests for uploading to github, mostly. No production code yet. The following is the default content made from creating these pages on GH. I'll have links to real projects as they become so. That's it. 
 
 You can use the [editor on GitHub](https://github.com/breyendo/breyendo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
